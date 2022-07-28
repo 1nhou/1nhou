@@ -4,7 +4,6 @@
   <p>
   <a href="https://houuuuu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:inhouuuuu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/inhouuuuu@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%EC%9D%B8%ED%98%B8-%EC%B5%9C-33a09a22a/" target="_blank"><img src="https://img.shields.io/badge/inhouuuuu-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
