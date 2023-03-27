@@ -7,7 +7,7 @@
   
 </p>
 <p>
-  Hello I am a new developer.<br/>
+  Hello I am a new Backend developer.<br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
